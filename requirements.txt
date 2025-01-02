@@ -12,3 +12,6 @@ pgvector
 psycopg[binary]
 pypdf
 ollama
+praisonai
+opencv-python
+moviepy
