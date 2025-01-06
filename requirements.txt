@@ -6,6 +6,7 @@ duckduckgo-search
 fastapi
 uvicorn
 groq
+google-generativeai
 openai
 sqlalchemy
 pgvector
