@@ -18,3 +18,10 @@ opencv-python
 moviepy
 crewai
 crewai-tools
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-api
+flask[async]
+flask
+flask-cors
