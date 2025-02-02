@@ -172,3 +172,9 @@ cython_debug/
 
 # Test Files
 /test_sample
+
+# Personal notes
+/notes
+
+# Voice Assistant LiveKit Coding
+/voice-assistant-livekit
