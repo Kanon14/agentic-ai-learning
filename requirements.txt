@@ -25,3 +25,6 @@ livekit-api
 flask[async]
 flask
 flask-cors
+langchain_core
+langchain_community
+langchain_ollama
