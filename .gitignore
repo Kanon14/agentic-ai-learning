@@ -178,3 +178,6 @@ cython_debug/
 
 # Voice Assistant LiveKit Coding
 /voice-assistant-livekit
+
+# Documents for testing
+/deepseek-learning/document_store
