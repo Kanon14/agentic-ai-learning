@@ -181,3 +181,5 @@ cython_debug/
 
 # Documents for testing
 /deepseek-learning/document_store
+/anthropic_test
+.qodo
